@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY /app/web www/usr/html/index.html
+COPY /app/web www/usr/html
